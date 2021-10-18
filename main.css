@@ -96,7 +96,7 @@
    font-family: "karla";
 }
 
-/* ==>Dsktop view<== */
+/* ==>Desktop view<== */
 
 @media screen and (min-width: 500px) {
    .section1, .section2, .section3, .p1, .p2, .p3, .p4, .p5, .p6, .p7, .sp1, .sp2, .division, .button1 {
