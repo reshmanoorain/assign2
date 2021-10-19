@@ -181,7 +181,7 @@
     font-weight: bold;
     padding-left: 35px;
     color: floralwhite;
-    padding-top: 10px;
+    padding-top:10px;
     font-family: "karla";
 }
 .span2 {
@@ -194,10 +194,10 @@
 .button {
     color: white;
     padding-right: 120px;
-    padding-top: 10px;
+    padding-top: 3px;
     padding-left: 120px;
     background-color: greenyellow;
-    padding-bottom: 10px;
+    padding-bottom: 3px;
     font-size: 20px;
     border-radius: 10px;
     border-color: greenyellow;
