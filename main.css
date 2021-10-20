@@ -145,7 +145,7 @@
 }
 .section11 {
     width: 100%;
-    height: 35vh;
+    height: 33.33vh;
     background-color: rgb(47, 177, 177);
     float: right;
     font-family: "karla";
@@ -164,7 +164,7 @@
     color: white;
     padding-left: 35px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     font-family: "karla";
 }
 .paragraph3 {
