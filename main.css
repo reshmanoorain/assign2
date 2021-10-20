@@ -198,9 +198,8 @@
 .button {
     color: white;
     padding-right: 120px;
-    padding-bottom: 3px;
     background-color: greenyellow;
-    padding-top: 3px;
+    display: inline;
     padding-left: 120px;
     font-size: 20px;
     border-radius: 10px;
